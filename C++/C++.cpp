@@ -3,6 +3,7 @@
 #include <string>
 #include<math.h>
 //90 урок ютуб
+// ban
 using namespace std;
 
 class Work

@@ -4,6 +4,7 @@
 #include<math.h>
 //90 урок ютуб
 // ban
+// ban2
 using namespace std;
 
 class Work
